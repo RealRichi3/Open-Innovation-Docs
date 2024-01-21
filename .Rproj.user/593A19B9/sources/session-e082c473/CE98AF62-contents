@@ -1,0 +1,38 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  site-url: https://example.com
+  repo-url: https://github.com/
+  repo-actions: [edit, issue]
+  title: "Open Innovation Platform Documentation"
+  author: "Richie, Sandy, Batool Almarzouq"
+  date: "1/21/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+
+babelquarto:
+  languagecodes:
+  - name: en
+    text: "Version in en"
+  - name: ar
+    text: "Version in ar"
+  mainlanguage: 'en'
+  languages: ['ar']
+title-en: title in en
+title-ar: title in ar
+description-en: description in en
+description-ar: description in ar
+author-en: author in en
+author-ar: author in ar
+lang: en

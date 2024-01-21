@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.ar.html",
+    "href": "index.ar.html",
+    "title": "title in ar",
+    "section": "",
+    "text": "الكتاب\nهذا الكتاب يتضمن مراجع للمواد التي تمت استشارتها أثناء كتابة هذا الكتاب. يمكن العثور على الكتاب الأصلي في الرابط التالي: https://bookdown.org/yihui/bookdown/."
+  },
+  {
+    "objectID": "intro.ar.html",
+    "href": "intro.ar.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. \"Literate Programming\". Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.ar.html",
+    "href": "summary.ar.html",
+    "title": "2  المنصة العربية للتعليم الإلكتروني",
+    "section": "",
+    "text": "هذه المنصة تقدم مجموعة من الدورات التدريبية المجانية في مجالات متعددة، وتقدم شهادات معتمدة للمتدربين الذين يجتازون الدورات بنجاح."
+  },
+  {
+    "objectID": "references.ar.html",
+    "href": "references.ar.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]
