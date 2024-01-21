@@ -3,8 +3,7 @@ project:
   output-dir: _book
 
 book:
-  site-url: https://example.com
-  repo-url: https://github.com/
+  repo-url: https://github.com/Open-Science-Community-Saudi-Arabia/Open-Innovation-Docs
   repo-actions: [edit, issue]
   title: "Open Innovation Platform Documentation"
   author: "Richie, Sandy, Batool Almarzouq"
