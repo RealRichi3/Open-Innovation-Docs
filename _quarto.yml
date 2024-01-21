@@ -7,7 +7,7 @@ book:
   site-url: https://open-science-community-saudi-arabia.github.io/Open-Innovation-Docs/
   repo-actions: [edit, issue]
   title: "Open Innovation Platform Documentation"
-  author: "Richie, Sandy, Batool Almarzouq"
+  author: "Richie Moluno, Goodnews Sandy, Batool Almarzouq"
   date: "1/21/2024"
   chapters:
     - index.qmd
