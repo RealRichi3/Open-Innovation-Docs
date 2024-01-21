@@ -1,1 +1,1 @@
-Sitemap: https://open-science-community-saudi-arabia.github.io/Open-Innovation-Docs/sitemap.xml
+Sitemap: https://open-innovation-docs.netlify.app/sitemap.xml

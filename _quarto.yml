@@ -4,7 +4,7 @@ project:
 
 book:
   repo-url: https://github.com/Open-Science-Community-Saudi-Arabia/Open-Innovation-Docs
-  site-url: https://open-science-community-saudi-arabia.github.io/Open-Innovation-Docs/
+  site-url: https://open-innovation-docs.netlify.app
   repo-actions: [edit, issue]
   title: "Open Innovation Platform Documentation"
   author: "Richie Moluno, Goodnews Sandy, Batool Almarzouq"
