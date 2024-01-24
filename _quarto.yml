@@ -12,7 +12,31 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
+    - book_en/changelog.qmd
+    - part: book_en/contributing/index.qmd
+      chapters:
+        - book_en/contributing/project_structure.qmd
+        - book_en/contributing/raising_issues.qmd
+        - book_en/contributing/raising_pr.qmd
+        - book_en/contributing/adding_a_course.qmd
+        - book_en/contributing/api_project_structure.qmd
+        - book_en/contributing/improving_documentation.qmd
+    - book_en/environment_setup.qmd
+    - part: book_en/localization/index.qmd
+      chapters:
+        - book_en/localization/client.qmd
+        - book_en/localization/backend.qmd
+    - part: book_en/technical_guide/index.qmd
+      chapters:
+        - book_en/technical_guide/api_guide/api_structure.qmd
+        - book_en/technical_guide/api_guide/api_authentication_flow.qmd
+        - book_en/technical_guide/api_guide/jwt_token_management.qmd
+        - book_en/technical_guide/api_guide/rbac_handler_flow.qmd
+        - book_en/technical_guide/ci_workflow.qmd
+        - book_en/technical_guide/deployment_guide.qmd
+        - book_en/technical_guide/reviewing_pr.qmd
+        - book_en/technical_guide/secrets_and_security.qmd
+
     - references.qmd
 
 bibliography: references.bib
@@ -20,15 +44,16 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
+    number-sections: false
 
 babelquarto:
   languagecodes:
-  - name: en
-    text: "Version in en"
-  - name: ar
-    text: "Version in ar"
-  mainlanguage: 'en'
-  languages: ['ar']
+    - name: en
+      text: "Version in en"
+    - name: ar
+      text: "Version in ar"
+  mainlanguage: "en"
+  languages: ["ar"]
 title-en: title in en
 title-ar: title in ar
 description-en: description in en
