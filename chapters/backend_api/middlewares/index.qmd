@@ -1,0 +1,19 @@
+---
+title: Middlewares
+---
+
+Welcome to the code documentation section for our backend API. In this section, we dive into the details of the Node.js code that powers our API, providing insights into its structure, key components, and functionality.
+
+As you explore the documentation, you'll find code snippets, explanations, and comments that aim to guide you through the implementation of our API. Whether you are a developer working on this project, a contributor seeking clarity, or someone interested in understanding the inner workings of our backend, this documentation is designed to make the codebase more accessible and comprehensible.
+
+## What to Expect
+
+- **Code Snippets:** We've included snippets of the actual Node.js code used in our backend API. These snippets are annotated and commented to enhance understanding.
+
+- **Explanation and Context:** Each code snippet comes with explanations and contextual information, providing a narrative that connects the lines of code to the overall functionality of the API.
+
+- **Visualizations:** When relevant, we've incorporated visual representations such as diagrams to illustrate the architecture and flow of our API.
+
+Feel free to navigate through the sections and explore the intricacies of our backend codebase. If you have any questions or need further clarification, don't hesitate to reach out.
+
+Let's get started!
